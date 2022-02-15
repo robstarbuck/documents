@@ -2,7 +2,7 @@
 ### Web Developer
 #### Born 1983
 
-I'm a decent all rounder striving to keep things simple. My passion at the moment is Go though my career has been spent using JS. Given my background in design, I have a good eye for what works on a site. I'd fit in best with small team. I'm experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development and Graphics Suites.
+I'm a decent all rounder striving to keep things simple. My passion at the moment is Go though my career has been spent writing JS. Given my background in design, I have a good eye for what works on a site. I'd fit in best with small team. I'm experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development and Graphics Suites.
 
 - Bristol, BS5
 - https://robstarbuck.uk
