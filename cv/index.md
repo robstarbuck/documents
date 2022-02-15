@@ -1,8 +1,8 @@
 ## Robert Starbuck
 ### Web Developer
 #### Born 1983
-  
-Experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development and graphic design
+
+I'm a decent all rounder striving to keep things simple. My passion at the moment is Go though my career has been spent using JS. Given my background in design, I have a good eye for what works on a site. I'd most benefit a small team. I'm experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development and Graphics Suites.
 
 - Bristol, BS5
 - https://robstarbuck.uk
@@ -11,7 +11,7 @@ Experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development 
 
 ## [Polecat](https://polecat.com/) - Reputation Management
 ### Frontend Developer
-#### April 2017 - December 2021, Bristol
+#### April 2017 - Present, Bristol
 
 UI development with React, Typescript and functional programming with RamdaJS, occasionally contributing as a graphic designer. The company took an iterative approach to development. The members of the team were incredibly gifted and I learnt a great deal. We were always striving for best practices and would make time for stand-ups, retros and hackathons.
 
@@ -43,7 +43,7 @@ An in­house developer for a Superyacht company based in Monaco, my role within 
 ### UI Developer
 #### Aug 2007 - Oct 2010, Skipton
 
-Despite limited web ­knowledge at the time I learnt fast, picking up jQuery and MySql. The work involved navigating some truly labyrinthine code to fix bugs and improve performance. Despite having never used a query language I left as someone who could be trusted to write or refactor a complex query.
+Despite limited web­knowledge at the time I learnt fast, picking up jQuery and MySql. The work involved navigating some truly labyrinthine code to fix bugs and improve performance. Despite having never used a query language I left as someone who could be trusted to write or refactor a complex query.
 
 ## [Sky Sports](https://skysports.com)
 ### ActionScript Developer
