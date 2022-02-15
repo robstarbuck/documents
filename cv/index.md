@@ -43,7 +43,7 @@ An in­house developer for a yacht company based in Monaco, my role within the c
 ### UI Developer
 #### Aug 2007 - Oct 2010, Skipton
 
-Despite limited web­knowledge at the time I learnt fast, picking up jQuery and MySql. The work involved navigating some truly labyrinthine code to fix bugs and improve performance. Despite having never used a query language I left as someone who could be trusted to write or refactor a complex query.
+Despite limited web ­knowledge at the time I learnt fast, picking up jQuery and MySql. The work involved navigating some truly labyrinthine code to fix bugs and improve performance. Despite having never used a query language I left as someone who could be trusted to write or refactor a complex query.
 
 ## [Sky Sports](https://skysports.com)
 ### ActionScript Developer
