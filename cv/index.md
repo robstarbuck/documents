@@ -31,7 +31,7 @@ I began building the front­end of web.cv with AngularJS in the hope of finding 
 ### Fullstack Developer
 #### Feb 2014 - Jun 2014, London
 
-Hired as a contractor to build a site with a tight deadline for an online auction company. The site went live on­time and its success led to my working with the firm’s largest contracts. I was hard­worked and enjoyed my time with the team and company.
+Hired as a contractor to build a site with a tight deadline for an online auction company. The site went live on time and its success led to my working with the firm’s largest contracts. I was hard­worked and enjoyed my time with the team and company.
 
 ## [Y.CO](https://y.co) - The Yacht Company
 ### Fullstack
