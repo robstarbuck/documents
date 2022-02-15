@@ -4,7 +4,6 @@
   
 Experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development and graphic design
 
-- 07477 647 347
 - Bristol, BS5
 - https://robstarbuck.uk
 
