@@ -1,7 +1,3 @@
----
-date: 2022-02-14
----
-
 ## Robert Starbuck
 ### Web Developer
 #### Born 1983
