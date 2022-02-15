@@ -37,7 +37,7 @@ Hired as a contractor to build a site with a tight deadline for an online auctio
 ### Fullstack
 #### Nov 2010 - Aug 2013, Monaco
 
-An in­house developer for a Superyacht company based in Monaco, my role within the company was diverse. Working with JavaScript and PHP it saw me working autonomously as well as managing projects and consulting with various departments. Whilst at the company I learnt to speak French. Voilà.
+An in­house developer for a yacht company based in Monaco, my role within the company was diverse. Working with JavaScript and PHP it saw me working autonomously as well as managing projects and consulting with various departments. Whilst at the company I learnt to speak French. Voilà.
 
 ## [Acquire Services](https://www.compass-group.co.uk/) - Procurement
 ### UI Developer
