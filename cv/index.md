@@ -54,10 +54,10 @@ I obtained this work placement as a means of learning Flash ActionScript, luckil
 # Education
 
 ### BA in Electronic Media Design
-#### 2001 - 2004, University of Sunderland
+#### 2001 - 2004, University of Sunderland
 
 ### BTEC Design & A level Photography
-#### 1999 - 2001, Harrogate Art College
+#### 1999 - 2001, Harrogate Art College
 
 ### 9 GCSEs (Maths,English)
-#### 1994 - 1999, Harrogate Grammar School
+#### 1994 - 1999, Harrogate Grammar School
