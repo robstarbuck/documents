@@ -55,7 +55,7 @@ layout: cv
 ### ActionScript Developer
 #### June 2006 - Aug 2007, Harrogate
 
-**Work placement with my aim being to learn Flash ActionScript, surely the shape of things to come!**. It wasn’t long until I moved onto JavaScript as well. The department was always busy and I helped out on a number published projects.
+**Work placement aiming learn Flash ActionScript, surely the shape of things to come!**. It wasn’t long until I moved onto JavaScript as well. The department was always busy and I helped out on a number published projects.
 
 # Education
 
