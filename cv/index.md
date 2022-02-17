@@ -8,7 +8,7 @@ layout: cv
 ### Web Developer
 #### Born 1983
 
-I'm a decent all rounder striving to keep things simple. My passion at the moment is Go though my career has been spent writing JS. Given my background in design, I have a good eye for what works on a site. I'd fit in best with small team. I'm experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development and Graphics Suites.
+I'm a fullstack developer striving to keep things simple. My passion at the moment is Go though my career has been spent writing JS. Given my background in design, I have a good eye for what works on a site. I'd fit in best with small team. I'm experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development and Graphics Suites.
 
 - Bristol, BS5
 - https://robstarbuck.uk
@@ -19,13 +19,13 @@ I'm a decent all rounder striving to keep things simple. My passion at the momen
 ### Frontend Developer
 #### April 2017 - Present, Bristol
 
-UI development with React, Typescript and functional programming with RamdaJS, occasionally contributing as a graphic designer. The company took an iterative approach to development. The members of the team were incredibly gifted and I learnt a great deal. We were always striving for best practices and would make time for stand-ups, retros and hackathons.
+**UI development with React in Typescript incorporating functional programming with RamdaJS, occasionally contributing as a graphic designer.** The company took an iterative approach to development. The members of the team were incredibly gifted and I learnt a great deal. We were always striving for best practices and would make time for stand-ups, retros and hackathons.
 
 ## [Buddi](https://www.buddi.co.uk) - GPS Solutions
 ### UI Developer
 #### Oct 2015 - Aug 2016, London
 
-Full­stack developer building UIs and a new company website with Angular, Shopify and a Sagepay. The site was originally written in Jekyll and later rewritten in Hugo.
+**Full stack role building UIs and a new company website with Angular, Shopify and a Sagepay.** The site was originally written in Jekyll and later rewritten in Hugo.
 
 ## [web.cv](https://web.cv) - Personal Start-up
 ### Founder / Fullstack
