@@ -1,5 +1,5 @@
 ---
-title: cv-2022-02-16
+title: CV
 date: 2022-02-16
 layout: cv
 ---
