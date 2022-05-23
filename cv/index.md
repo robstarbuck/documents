@@ -8,7 +8,7 @@ layout: cv
 ### Web Developer
 #### Born 1983
 
-**Fullstack developer striving to keep things simple**. My passion at the moment is Go though my career has been spent writing JS. Given my background in design, I have a good eye for what works on a site. I'd fit in best with a small team. I'm experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development and Graphics Suites.
+**Frontend Focussed Developer and Designer**. Given my background in design, I have a good eye for what works on a site. I'd fit in best with a small team. I'm experienced with React, Apollo GraphQL, Typescript, JS, CSS, Go, UI Development and Graphics Suites. I'm currently investing time using Web Components and Go.
 
 - Bristol, BS5
 - https://robstarbuck.uk
