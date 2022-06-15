@@ -17,7 +17,7 @@ layout: cv
 
 ## [Polecat](https://polecat.com/) - Reputation Management
 ### Frontend Developer
-#### April 2017 - Present, Bristol
+#### April 2017 - December 2021, Bristol
 
 **UI development with React in Typescript, incorporating functional programming with RamdaJS, occasionally contributing as a graphic designer**. My contributions were various, and included visualisations with D3 and helping to refactor our sites to use React. The team was very gifted and I learnt a great deal. We strived to a fault for best practices and would always make time for stand-ups, retros and hackathons.
 
