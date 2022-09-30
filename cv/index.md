@@ -15,6 +15,12 @@ layout: cv
 
 # Experience
 
+## [Rippl](https://rippl.work/) - Incentives Platform
+### Frontend Developer
+#### July 2022 - Present, Remote
+
+**UI development with web-components built in lit.dev**. Building a bespoke component library and implementing those components accross Rippl sites and with the help of a brilliant team. Working with native web-components has posed some challenges with a shift away from callbacks to event driven interactions.
+
 ## [Polecat](https://polecat.com/) - Reputation Management
 ### Frontend Developer
 #### April 2017 - December 2021, Bristol
@@ -49,13 +55,13 @@ layout: cv
 ### UI Developer
 #### Aug 2007 - Oct 2010, Skipton
 
-**Fullstack role using Macromedia Coldfusion**. I learnt fast in this role, picking up jQuery and MySql early on. The work involved navigating some truly labyrinthine code to fix bugs and improve performance. Despite having never used a query language I left as someone who could be trusted to write or refactor a complex query.
+**Fullstack role using Macromedia Coldfusion**.
 
 ## [Sky Sports](https://skysports.com)
 ### ActionScript Developer
 #### June 2006 - Aug 2007, Harrogate
 
-**Work placement aiming learn Flash ActionScript, surely the shape of things to come!**. It wasn’t long until I moved onto JavaScript as well. The department was always busy and I helped out on a number published projects.
+**Work placement aiming learn Flash ActionScript, surely the shape of things to come!**.
 
 # Education
 
