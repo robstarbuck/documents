@@ -55,13 +55,9 @@ layout: cv
 ### UI Developer
 #### Aug 2007 - Oct 2010, Skipton
 
-**Fullstack role using Macromedia Coldfusion**.
-
 ## [Sky Sports](https://skysports.com)
 ### ActionScript Developer
 #### June 2006 - Aug 2007, Harrogate
-
-**Work placement aiming learn Flash ActionScript, surely the shape of things to come!**.
 
 # Education
 
