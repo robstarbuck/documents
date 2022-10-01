@@ -19,7 +19,7 @@ layout: cv
 ### Frontend Developer
 #### July 2022 - Present, Remote
 
-**UI development with web-components built in lit.dev**. Building a bespoke component library and implementing those components accross Rippl sites and with the help of a brilliant team. Working with native web-components has posed some challenges with a shift away from callbacks to event driven interactions.
+**UI development with web-components built in lit.dev**. Building a bespoke component librxxary and implementing those components accross Rippl sites and with the help of a brilliant team. Working with native web-components has posed some challenges with a shift away from callbacks to event driven interactions.
 
 ## [Polecat](https://polecat.com/) - Reputation Management
 ### Frontend Developer
