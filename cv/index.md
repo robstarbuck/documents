@@ -1,6 +1,6 @@
 ---
 title: CV
-date: 2022-10-01
+date: 2024-01-22
 layout: cv
 ---
 
