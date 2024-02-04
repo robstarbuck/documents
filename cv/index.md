@@ -1,17 +1,16 @@
 ---
 title: CV
-date: 2024-01-22
-layout: cv
+date: 2024-02-04
 ---
 
 ## Robert Starbuck
 ### Web Developer
 #### Born 1983
 
-**Frontend focussed developer and designer**. With a background in design, I have a good eye for what works on a site. I'd fit in best with a small team. I'm experienced with React, Next.js, Apollo GraphQL, Typescript, JS, CSS, UX Development and Graphics Suites. I'm currently developing using web-components built with lit.dev.
-
 - Bristol, BS5
 - https://robstarbuck.uk
+
+**Frontend focussed developer and designer**. With a background in design, I have a good eye for what works on a site. I'd fit in best with a small team. I'm experienced with React, Next.js, Apollo GraphQL, Typescript, JS, CSS, UX Development and Graphics Suites. I'm currently developing using web-components built with lit.dev.
 
 # Experience
 
