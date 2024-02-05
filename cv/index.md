@@ -1,6 +1,7 @@
 ---
 title: CV
 date: 2024-02-04
+repoUrl: /documents/blob/master/cv/index.md
 ---
 
 ## Robert Starbuck
