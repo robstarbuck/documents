@@ -10,15 +10,15 @@ date: 2024-02-04
 - Bristol, BS5
 - https://robstarbuck.uk
 
-**Frontend focussed developer and designer**. With a background in design, I have a good eye for what works on a site. I'd fit in best with a small team. I'm experienced with React, Next.js, Apollo GraphQL, Typescript, JS, CSS, UX Development and Graphics Suites. I'm currently developing using web-components built with lit.dev.
+**Frontend focussed developer and designer**. With a background in design, I have a good eye for what works. Expansive experience of libs and frameworks including Lit, React and Angular with Typescript, CSS et al. along with UX Development and Graphics Suites. I'm a firm believer in "using the platform". 
 
 # Experience
 
 ## [Rippl](https://rippl.work/) - Incentives Platform
 ### Frontend Developer
-#### July 2022 - Present, Remote
+#### July 2022 - Februrary 2024, Remote
 
-**UI development with web-components built in lit.dev**. Building a bespoke component librxxary and implementing those components accross Rippl sites and with the help of a brilliant team. Working with native web-components has posed some challenges with a shift away from callbacks to event driven interactions.
+**UI development with web-components built in lit.dev**. Building a bespoke component library and implementing those components accross Rippl sites and with the help of a brilliant team. Later joining a separate team working on modernising an AngularJS project.
 
 ## [Polecat](https://polecat.com/) - Reputation Management
 ### Frontend Developer
