@@ -1,6 +1,6 @@
 ---
 title: CV
-date: 2024-02-04
+date: 2024-03-19
 repoUrl: /documents/blob/master/cv/index.md
 ---
 
@@ -11,7 +11,7 @@ repoUrl: /documents/blob/master/cv/index.md
 - Bristol, BS5
 - https://robstarbuck.uk
 
-**Frontend focussed developer and designer**. With a background in design, I have a good eye for what works. Expansive experience of libs and frameworks including Lit, React and Angular with Typescript, CSS et al. along with UX Development and Graphics Suites. I'm a firm believer in "using the platform". 
+**Frontend focussed developer and designer**. With a background in design, I    have a good eye for what works. Expansive experience of libs and frameworks including Lit, React and Angular with Typescript, CSS et al. along with UX Development and Graphics Suites. I'm a firm believer in "using the platform". 
 
 # Experience
 
