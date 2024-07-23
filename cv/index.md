@@ -1,6 +1,6 @@
 ---
 title: CV
-date: 2024-03-19
+date: 2024-07-20
 repoUrl: /documents/blob/master/cv/index.md
 ---
 
@@ -17,13 +17,13 @@ repoUrl: /documents/blob/master/cv/index.md
 
 ## [Rippl](https://rippl.work/) - Incentives Platform
 ### Frontend Developer
-#### July 2022 - Februrary 2024, Remote
+#### Jul 2022 - Feb 2024, Remote
 
 **UI development with web-components built in lit.dev**. Building a bespoke component library and implementing those components accross Rippl sites and with the help of a brilliant team. Later joining a separate team working on modernising an AngularJS project.
 
 ## [Polecat](https://polecat.com/) - Reputation Management
 ### Frontend Developer
-#### April 2017 - December 2021, Bristol
+#### Apr 2017 - Dec 2021, Bristol
 
 **UI development with React in Typescript, incorporating functional programming with RamdaJS, occasionally contributing as a graphic designer**. My contributions were various, and included visualisations with D3 and helping to refactor our sites to use React. The team was very gifted and I learnt a great deal. We strived to a fault for best practices and would always make time for stand-ups, retros and hackathons.
 
