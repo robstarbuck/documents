@@ -1,55 +1,81 @@
 ---
 title: CV
-date: 2024-07-20
+date: 2025-10-10
 repoUrl: /documents/blob/master/cv/index.md
 ---
 
 ## Robert Starbuck
 ### Web Developer
-#### Born 1983
 
 - Bristol, BS5
 - https://robstarbuck.uk
 
-**Frontend focussed developer and designer**. With a background in design, I    have a good eye for what works. Expansive experience of libs and frameworks including Lit, React and Angular with Typescript, CSS et al. along with UX Development and Graphics Suites. I'm a firm believer in "using the platform". 
+Frontend Developer with nearly 20 years experience creating user interfaces. My background in design ensures a strong focus on UX. I have a clear understanding of modern web standards and I'm a firm believer in "using the platform" to create exceptional user experiences. 
+
+# Technical Skills
+
+- **Languages:** TypeScript, ES6+, HTML5, Modern CSS
+- **Frameworks & Libraries:** React, Lit, Angular, D3.js, RamdaJS
+- **Design & Testing:** Figma, Storybook, Adobe Creative Suite, Playwright
+- **Tools:** Deno, Node.js, Git, Webpack, Vite, Shopify, CI/CD, Agile/Scrum
 
 # Experience
+
+## [SouthBank](https://rippl.work/) - Community Space
+### Technical Support
+#### Jan 2025 - Present, Bristol
+
+- **Provide technical support and solutions**, focusing on the integration of third-party APIs for booking and event management systems.
+- **Manage and troubleshoot IT infrastructure**, Including Point-of-Sale (POS) integrations, to ensure smooth daily operations for staff and visitors.
+
+<!-- 
+Career Break
+DIY, trained briefly as an electrician
+Mar 2024 - Dec 2024
+-->
 
 ## [Rippl](https://rippl.work/) - Incentives Platform
 ### Frontend Developer
 #### Jul 2022 - Feb 2024, Remote
 
-**UI development with web-components built in lit.dev**. Building a bespoke component library and implementing those components accross Rippl sites and with the help of a brilliant team. Later joining a separate team working on modernising an AngularJS project.
+- **Architected and led the development of a component library** using Lit and TypeScript, establishing a design system used across all company projects.
+- **Collaborated in an Agile team to modernise an AngularJS application**, improving performance and developer experience by introducing modern tooling and best practices.
+- **Mentored junior developers on web components and best practices**, improving overall team velocity.
 
 ## [Polecat](https://polecat.com/) - Reputation Management
 ### Frontend Developer
 #### Apr 2017 - Dec 2021, Bristol
 
-**UI development with React in Typescript, incorporating functional programming with RamdaJS, occasionally contributing as a graphic designer**. My contributions were various, and included visualisations with D3 and helping to refactor our sites to use React. The team was very gifted and I learnt a great deal. We strived to a fault for best practices and would always make time for stand-ups, retros and hackathons.
+- **Engineered complex data visualisations using D3.js**, React, TypeScript to create intuitive dashboards for clients.
+- **Implemented a site-wide refactor from a legacy codebase** to a modern React application, improving code maintainability and test coverage.
+- **Championed functional programming principles** using RamdaJS to create more predictable and reusable code within the team.
 
 ## [Buddi](https://www.buddi.co.uk) - GPS Solutions
 ### UI Developer
 #### Oct 2015 - Aug 2016, London
 
-**Full stack role building UIs and a new company website with Angular, Shopify and a Sagepay**. The site was originally written in Jekyll and later rewritten in Hugo.
+- **Built an e-commerce site using Shopify and Sagepay**.
+- Led the migration of the company website from Jekyll to Hugo, improving performance and simplifying workflows.
 
 ## [web.cv](https://web.cv) - Personal Start-up
 ### Founder / Fullstack
 #### Sep 2014 - Sep 2015, London
 
-**Unsuccessful start-up venture with a team of one**. I built the front­end of web.cv with AngularJS with the hope of partnering with a backend engineer. Working by myself was good for discipline, though I certainly lacked the feedback I needed to either move the project forward or understand when to stop.
+- **Independently designed, developed, and launched an MVP** with AngularJS and Node.js.
+- **Managed the entire project lifecycle**, from initial ideation and UI/UX design to frontend implementation and deployment strategy.
 
 ## [Merchant Cantos](https://merchantcantos.com) - Marketing Agency
 ### Fullstack Developer
 #### Feb 2014 - Jun 2014, London
 
-**Contract work as a front-end dev**. Clients included several big names from ebay to facebook. Deadlines were tight and I was hard­worked but fully enjoyed my time with the team.
+- **Delivered sites and designs for major clients including eBay and Facebook** within a fast-paced, deadline-driven agency environment.
 
 ## [Y.CO](https://y.co) - The Yacht Company
-### Fullstack
+### Fullstack Developer
 #### Nov 2010 - Aug 2013, Monaco
 
-**In-house developer for a yacht company based in Monaco**. My role within the company was diverse. I mostly worked autonomously, managing projects and building tools for charter destinations and another for charter yacht selections. Whilst at the company I learnt to speak French. Voilà.
+- **Worked as the in-house developer**, responsible for architecture and development.
+- **Autonomously managed and developed key in-house web applications**, including a project management tool for charter destinations and a selection tool for charter yachts.
 
 ## [Acquire Services](https://www.compass-group.co.uk/) - Procurement
 ### UI Developer
