@@ -1,6 +1,6 @@
 ---
 title: CV
-date: 2025-10-10
+date: 2025-03-01
 repoUrl: /documents/blob/master/cv/index.md
 ---
 
@@ -17,7 +17,7 @@ Frontend Developer with nearly 20 years experience creating user interfaces. My 
 - **Languages:** TypeScript, ES6+, HTML5, Modern CSS
 - **Frameworks & Libraries:** React, Lit, Angular, D3.js, RamdaJS
 - **Design & Testing:** Figma, Storybook, Adobe Creative Suite, Playwright
-- **Tools:** Deno, Node.js, Git, Webpack, Vite, Shopify, CI/CD, Agile/Scrum
+- **UX Research & Strategy** Usability Testing, A/B Testing, User Interviews and Ethnographic Research
 
 # Experience
 
@@ -25,8 +25,8 @@ Frontend Developer with nearly 20 years experience creating user interfaces. My 
 ### Technical Support
 #### Jan 2025 - Present, Bristol
 
-- **Provide technical support and solutions**, focusing on the integration of third-party APIs for booking and event management systems.
-- **Manage and troubleshoot IT infrastructure**, Including Point-of-Sale (POS) integrations, to ensure smooth daily operations for staff and visitors.
+- **Redesign of Booking System UX**, Redesign of the customer booking system to simplify UX and better integrate with our workflow and calendar. Moved architecture over to Deno from Apps Script.
+- **Manage and troubleshoot IT infrastructure**, Including Point-of-Sale (POS) integrations, to ensure smooth daily operations for staff and visitors. Management of stock-take software.
 
 <!-- 
 Career Break
