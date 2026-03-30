@@ -10,22 +10,22 @@ repoUrl: /documents/blob/master/cv/index.md
 - Bristol, BS5
 - https://robstarbuck.uk
 
-Frontend Developer with nearly 20 years experience creating user interfaces. My background in design ensures a strong focus on UX. I have a clear understanding of modern web standards and I'm a firm believer in "using the platform" to create exceptional user experiences. 
+Web Developer with nearly 20 years experience creating user interfaces and full-stack solutions. My background in design ensures a strong focus on UX. I have a clear understanding of modern web standards and I'm a firm believer in "using the platform" to create exceptional user experiences. 
 
 # Technical Skills
 
 - **Languages:** TypeScript, ES6+, HTML5, Modern CSS
-- **Frameworks & Libraries:** React, Lit, Angular, D3.js, RamdaJS
+- **Frontend:** React, Lit, Angular, D3.js, RamdaJS
+- **Backend:** Node.js, Deno
 - **Design & Testing:** Figma, Storybook, Adobe Creative Suite, Playwright
-- **UX Research & Strategy** Usability Testing, A/B Testing, User Interviews and Ethnographic Research
 
 # Experience
 
 ## [SouthBank](https://www.southbankbristol.biz/) - Community Space
-### Technical Support
+### Technical Support & Full Stack Developer
 #### Jan 2025 - Present, Bristol
 
-- **Redesign of Booking System UX**, Redesign of the customer booking system to simplify UX and better integrate with our workflow and calendar. Moved architecture over to Deno from Apps Script.
+- **Led a redesign of the customer booking system**, improving the user experience and internal workflows. Migrated the backend architecture from Google Apps Script to a modern Deno application.
 - **Manage and troubleshoot IT infrastructure**, Including Point-of-Sale (POS) integrations, to ensure smooth daily operations for staff and visitors. Management of stock-take software.
 
 <!-- 
@@ -74,8 +74,8 @@ Mar 2024 - Dec 2024
 ### Fullstack Developer
 #### Nov 2010 - Aug 2013, Monaco
 
-- **Worked as the in-house developer**, responsible for architecture and development.
-- **Autonomously managed and developed key in-house web applications**, including a project management tool for charter destinations and a selection tool for charter yachts.
+- **Managed and developed the full-stack and architecture** for all in-house web applications.
+- **Independently built and maintained key business tools**, including a project management application alongside tools for selecting yachts and destinations.
 
 ## [Acquire Services](https://www.compass-group.co.uk/) - Procurement
 ### UI Developer
